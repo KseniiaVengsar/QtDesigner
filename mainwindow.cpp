@@ -15,7 +15,7 @@ MainWindow::~MainWindow()
 }
 
 
-void MainWindow::on_pushButton_clicked()
+void MainWindow::on_pB_open_clicked()
 {
     newWindow->show();
 }
